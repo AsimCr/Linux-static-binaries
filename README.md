@@ -13,7 +13,7 @@ sudo unzip Binaries.zip
 ```
 ./run-nmap.sh 10.10.10.10
 ```
-## Nmap
+## Gobuster
 ```
 ./gobuster dir -w big.txt -u http://10.10.10.10/ -t 50 -x php,txt,log,asp -r
 ```
