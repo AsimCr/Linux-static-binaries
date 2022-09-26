@@ -2,7 +2,7 @@
 Linux static binaries to work on 32&amp;64 systems.  
 There is mainly Nmap and Gobuster and some other extra tools.
 ## Impotant Note:
-some tools and files aren't mine , it was collected from:
+some tools and files aren't mine , it was collected from:  
 https://github.com/fopina/gobuster  
 https://github.com/ernw/static-toolbox  
 
